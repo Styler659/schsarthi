@@ -10,4 +10,4 @@ The application will run, enter the fields and submit. You'll get your related s
 
 To change the database, (Not Needed) Use DatabaseManager.py
 
-The application Works totally fine, without single error just make sure server is working it will say Running on http://127.0.0.1:5000
+The application Works totally fine, without single error just make sure server is working it will say "Running on http://127.0.0.1:5000"
