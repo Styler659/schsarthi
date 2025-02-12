@@ -11,6 +11,7 @@ Enter the fields and submit. You'll get your related schemes, click more info an
 To change the database, (Not Needed) Use DatabaseManager.py
 
 Make sure server is working it will say "Running on http://127.0.0.1:5000". Also, have the Flask and Pandas modules installed.
+
 pip install flask pandas
 
 Images of working website are attached as well. details.png and schemes.png
