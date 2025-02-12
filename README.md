@@ -1,6 +1,6 @@
 Please read it to RUN the application
 
-Download the zip file and extract its content.
+Download the entire file and get its content.
 
 In the main folder you will see, app.py. Run it, or use this command in powershell window->  python app.py  
 
